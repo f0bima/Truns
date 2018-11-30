@@ -11,3 +11,19 @@
 > **cy = int(M['m01'] / M['m00'])**
 
 > **cv2.putText(frame, "TEXT", (Coordinate), Font, Size, Warna, thickness)**
+
+
+####Code Blocks (Indented style)
+
+Indented 4 spaces, like `<pre>` (Preformatted Text).
+
+    <?php
+        echo "Hello world!";
+    ?>
+    
+Code Blocks (Preformatted text):
+
+    | First Header  | Second Header |
+    | ------------- | ------------- |
+    | Content Cell  | Content Cell  |
+    | Content Cell  | Content Cell  |
