@@ -1,1 +1,3 @@
-# Truns
+# Color Detection
+
+> **TRUNS**
