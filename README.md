@@ -13,17 +13,5 @@
 > **cv2.putText(frame, "TEXT", (Coordinate), Font, Size, Warna, thickness)**
 
 
-####Code Blocks (Indented style)
-
-Indented 4 spaces, like `<pre>` (Preformatted Text).
-
-    <?php
-        echo "Hello world!";
-    ?>
+    M = cv2.moments(contours[0])
     
-Code Blocks (Preformatted text):
-
-    | First Header  | Second Header |
-    | ------------- | ------------- |
-    | Content Cell  | Content Cell  |
-    | Content Cell  | Content Cell  |
