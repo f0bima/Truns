@@ -1,0 +1,6 @@
+<launch>
+	<node name="sub_pub"        pkg="kri_pkg" type="msg_filter.py"  output="screen"/>
+	<node name="alas"           pkg="kri_pkg" type="alas_pub.py"    output="screen"/>
+	<node name="tinggi"         pkg="kri_pkg" type="tinggi_pub.py"  output="screen"/>
+	<node name="Luas_Segitiga"  pkg="kri_pkg" type="luas_sub.py"    output="screen"/>
+</launch>
